@@ -19,7 +19,7 @@ To address this problem, Lei Guo and I created a list of GDELT themes that taken
 ## Want to Cite Us? Looking for Methodological Detail?
 Here are the papers where we created these lists. We outline all the content analyses that went into creating these lists. Please cite these papers if you end up using this issue lists!
 
-Vargo, C., & Lei, G (2017). Networks, big data, and intermedia agenda-setting: an analysis of traditional, partisan, and emerging online U.S. news. Journalism & Mass Communication Quarterly, 94(4) 1031–1055.
+Vargo, C., & Guo, L. (2017). Networks, big data, and intermedia agenda-setting: an analysis of traditional, partisan, and emerging online U.S. news. Journalism & Mass Communication Quarterly, 94(4) 1031–1055.
 http://chrisjvargo.com/wp-content/uploads/2016/12/1FinalPDFJMCQ.pdf
 
 Guo, L., & Vargo, C. (2018). “Fake news” and emerging online media ecosystem: An integrated intermedia agenda-setting analysis of during the 2016 U.S. presidential election. Communication Research. Preprint published online, June 4, 2018. 
